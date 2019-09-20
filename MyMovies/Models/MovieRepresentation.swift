@@ -26,4 +26,5 @@ struct MovieRepresentation: Equatable, Codable {
  */
 struct MovieRepresentations: Codable {
     let results: [MovieRepresentation]
+    
 }
