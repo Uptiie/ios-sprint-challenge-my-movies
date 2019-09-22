@@ -77,7 +77,6 @@
 			isa = PBXGroup;
 			children = (
 				46E20A012126A91800E7FF73 /* MovieRepresentation.swift */,
-				63D4D9512335492A00B74FB2 /* Movie+Convenience.swift */,
 				63D4D9562335506000B74FB2 /* New Group */,
 			);
 			path = Models;
@@ -123,6 +122,7 @@
 			isa = PBXGroup;
 			children = (
 				63D4D9532335504E00B74FB2 /* MovieCoreData.xcdatamodeld */,
+				63D4D9512335492A00B74FB2 /* Movie+Convenience.swift */,
 			);
 			path = "New Group";
 			sourceTree = "<group>";
